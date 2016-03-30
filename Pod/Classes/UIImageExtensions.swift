@@ -2,9 +2,15 @@
 //  ImageColorsExtension.swift
 //  ImageColors
 //
-//  Created by Robinson Presotto on 09/01/2016.
-//  Copyright © 2016 Robitto. All rights reserved.
+//  Modified by Robinson Presotto on 09/01/2016.
+
+//  Based upon:
+//  UIImageColors.swift
+//  https://github.com/jathu/UIImageColors
+//  Created by Jathu Satkunarajah (@jathu) on 2015-06-11 - Toronto
+//  Original Cocoa version by Panic Inc. - Portland
 //
+
 
 import UIKit
 
