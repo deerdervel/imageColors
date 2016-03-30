@@ -36,9 +36,10 @@ it, simply add the following line to your Podfile:
 pod "ImageColors"
 ```
 
-## Author
+## Authors
 
-Robinson Presotto, robipresotto@gmail.com
+Jathu Satkunarajah, @jathu (2015) (see [UIImageColors](https://github.com/jathu/UIImageColors))
+Robinson Presotto, robipresotto@gmail.com (2016)
 
 ## License
 
